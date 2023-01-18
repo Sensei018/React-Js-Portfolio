@@ -11,7 +11,7 @@ return (
  >
 <div className="max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full px-4 md:flex-row ">
 <div className="flex flex-col justify-center h-full pt-20 ">
-<h2 className="text-4xl sm:text-6xl font-bold md:pt-10 text-white xs:pt-30 ">
+<h2 className="text-4xl xl:pb-30  sm:text-6xl font-bold md:p-10 mx-auto text-white xs:pt-30 ">
 I am a Web Developer
 </h2>
 <p className="text-gray-500 py-4 max-w-md  mx-auto">
